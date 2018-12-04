@@ -1,0 +1,2 @@
+# zabbix_template_redis
+ZABBIX监控Redis的模版
