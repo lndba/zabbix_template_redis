@@ -50,6 +50,7 @@ redis:  6379    master  redis123.Com
 ![](.img-folder/15320923293018.png)
 
 2. 选择导入摸板
+
 ![](.img-folder/15320924407503.png)
 
 3. 添加自动发现所需的正则表达式
